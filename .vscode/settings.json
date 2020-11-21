@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "c:\\Users\\HP\\Desktop\\Alpha_V\\cv_generator\\Scripts\\python.exe",
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+}
